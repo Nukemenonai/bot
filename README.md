@@ -9,8 +9,6 @@ The reason why the bot was made was because I had to tweet daily for a school pr
 
 See it in action at <https://twitter.com/disartDave>
 
-Dependencies 
-
 
 ### Contact 
 * [Linkedin](https://www.linkedin.com/in/david-giovani-ovalle-ariza/)
